@@ -1,0 +1,13 @@
+# This file should be copied to local.properties and updated with your paths
+# DO NOT commit local.properties to version control
+
+# Location of the Flutter SDK
+# On macOS/Linux: /Users/username/flutter or /home/username/flutter
+# On Windows: C:\\Users\\username\\flutter
+flutter.sdk=/path/to/flutter
+
+# Location of the Android SDK
+# On macOS: /Users/username/Library/Android/sdk
+# On Linux: /home/username/Android/Sdk
+# On Windows: C:\\Users\\username\\AppData\\Local\\Android\\Sdk
+sdk.dir=/path/to/android/sdk
